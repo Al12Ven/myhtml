@@ -1,0 +1,30 @@
+.gl{
+    width: 100%;
+    height: 80px;
+    background-color: aqua;
+    margin: 0,auto;
+}
+.toop{
+    width: 80%;
+    height: 500px;
+    background-color: blueviolet;
+}
+.jab{
+    width: 50%;
+    height: 100px;
+    margin-bottom: 0, auto;
+    background-color: brown;
+}
+.text{
+    font-family: monospace;
+    float: left;
+}
+.text h1{
+    position: fixed;
+}
+.menu{
+    width: 10%;
+    height: 80px;
+    background-color: beige;
+    margin-left: auto;
+}
